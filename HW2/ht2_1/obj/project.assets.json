@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\ht2_1\\ht2_1.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\HW2\\ht2_1\\ht2_1.csproj",
       "projectName": "ht2_1",
-      "projectPath": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\ht2_1\\ht2_1.csproj",
+      "projectPath": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\HW2\\ht2_1\\ht2_1.csproj",
       "packagesPath": "C:\\Users\\lerab\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\ht2_1\\obj\\",
+      "outputPath": "D:\\OneDrive\\Рабочий стол\\Gb\\C#\\HW2\\ht2_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lerab\\AppData\\Roaming\\NuGet\\NuGet.Config"
