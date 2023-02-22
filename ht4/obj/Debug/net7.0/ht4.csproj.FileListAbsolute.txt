@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\bin\Debug\net7.0\ht4.exe
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\bin\Debug\net7.0\ht4.deps.json
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\bin\Debug\net7.0\ht4.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\bin\Debug\net7.0\ht4.dll
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\bin\Debug\net7.0\ht4.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.dll
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\refint\ht4.dll
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ht4.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Gb\C#\ht4\obj\Debug\net7.0\ref\ht4.dll
