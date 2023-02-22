@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\bin\Debug\net7.0\ht2_2.exe
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\bin\Debug\net7.0\ht2_2.deps.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\bin\Debug\net7.0\ht2_2.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\bin\Debug\net7.0\ht2_2.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\bin\Debug\net7.0\ht2_2.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\refint\ht2_2.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ht2_2.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW2\ht2_2\obj\Debug\net7.0\ref\ht2_2.dll
