@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\bin\Debug\net7.0\ht7_3.exe
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\bin\Debug\net7.0\ht7_3.deps.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\bin\Debug\net7.0\ht7_3.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\bin\Debug\net7.0\ht7_3.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\bin\Debug\net7.0\ht7_3.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\refint\ht7_3.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ht7_3.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW7\ht7_3\obj\Debug\net7.0\ref\ht7_3.dll
