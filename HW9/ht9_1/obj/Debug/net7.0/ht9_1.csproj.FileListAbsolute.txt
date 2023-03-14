@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\bin\Debug\net7.0\ht9_1.exe
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\bin\Debug\net7.0\ht9_1.deps.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\bin\Debug\net7.0\ht9_1.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\bin\Debug\net7.0\ht9_1.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\bin\Debug\net7.0\ht9_1.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\refint\ht9_1.dll
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.pdb
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ht9_1.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Gb\C#\HW9\ht9_1\obj\Debug\net7.0\ref\ht9_1.dll
